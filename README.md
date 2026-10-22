@@ -1,5 +1,16 @@
 # Module Textcart
-## Introduction
+## Introduction to this fork
+The original version of textcart was created when php7 was current for front accounting, but did not work correctly for php8.
+This repository applies updates to textcart created by Claude AI to make it work correctly for php8.5. 
+
+At this time, I use textcart only for importing invoices.
+
+Before making a pull request the following has to happen:
+* testing of all textcart capabilities
+* approval from frontaccounting to include code that has been modified by Claude AI.
+* determining whether textcart has an owner. The last time the owner updated textcart was in 2019.
+  
+## Introduction to Textcart
 This module provides a quick import/export facility between **orders** (or any other carts) and text via the UI.
 This allows, for example :
 
